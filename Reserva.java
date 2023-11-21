@@ -12,4 +12,14 @@ public Vuelo buscarVuelo (Sring Vuelo){
         Vuelo vuelo1 = VueloDisponibles.get(i);
 
 
+        if (Sillas.Disponibles(Origen.getOrigen))){
+            return VueloReserva
+
+        }
+
+    }
+
+}
+
+
 }
